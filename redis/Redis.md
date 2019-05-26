@@ -150,7 +150,7 @@ AP - 满足可用性，分区容忍性的系统，通常可能对一致性要求
 >
 > [操作命令](http://redisdoc.com/)
 >
-> [Redis脑图](Redis2016.1.4.mmap)
+> [Redis脑图](files/Redis2016.1.4.mmap)
 
 ### Redis简介
 
