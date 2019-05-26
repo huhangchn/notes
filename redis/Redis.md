@@ -79,7 +79,7 @@ NoSQL
 
 四者对比
 
-![四者对比](四者对比.bmp)
+![四者对比](files/compare.jpg)
 
 ### 在分布式数据库中CAP原理CAP+BASE
 
@@ -117,7 +117,7 @@ AP - 满足可用性，分区容忍性的系统，通常可能对一致性要求
 一致性和可用性之间取一个平衡。多余大多数web应用，其实并不需要强一致性。
 因此牺牲C换取A，这是目前分布式数据库产品的方向
 
-![CAP图](CAP图.png)
+![CAP图](files/CAP.png)
 
 
 #### BASE
@@ -606,4 +606,4 @@ redis-server /usr/local/etc/redis/redis.conf
 
 ### 解析配置文件redis.conf
 
-![1558882244967](1558882244967.png)
+![conf](files/conf.png)
